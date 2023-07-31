@@ -1,0 +1,87 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+#contenitore{
+    width: 1000px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 60px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+header > img{
+    display: block;
+    width: 250px;
+    margin: auto;
+}
+
+header > h1{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: rgb(70, 235, 5);
+}
+
+nav{
+    background-color: rgb(70, 235, 5);
+    padding-top: 10px;
+    padding-left: 350px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+
+section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section > h3{
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+section > p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 90%;
+}
+
+.luogo:before{
+    content: '\21A6' '\0020' ;
+}
+
+section > div{
+    height: 20px;
+    border-radius: 5px;
+}
+
+#carica-Gino{
+    width: 300px;
+    background-color: rgba(255, 166, 0, 0.849);
+}
+
+#carica-Mike{
+    width: 500px;
+    background-color: rgba(0, 128, 0, 0.918);
+    
+}
+
+#carica-Fede{
+    width: 100px;;
+    background-color: rgba(255, 0, 0, 0.719);
+}
+
+
+
+
+
+
